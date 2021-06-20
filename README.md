@@ -21,5 +21,5 @@ I have made a decision to solve problem regularly based on various topics.
 
 | #  | Title | Solution |
 | --- | --- | --- |
-|01| [1. Two Number Sum]| [Python](https://tinyurl.com/wu6rdaw/1_Two_Sum.py)| ✅ 📌 ⭐ 😭 🧐 😎 |
+|01| [1. Two Number Sum(https://www.algoexpert.io/questions)]| [Python](https://github.com/RATHOD-SHUBHAM/AlgoExpert/blob/master/Arrays/TwoNumberSum.py)| ✅ 📌 ⭐ 😭 🧐 😎 |
 
