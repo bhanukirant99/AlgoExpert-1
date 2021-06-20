@@ -1,6 +1,9 @@
 # AlgoExpert
 
-
+<h1 align="center">
+  <br>
+  <a href="https://user-images.githubusercontent.com/58945964/122674566-55875280-d19b-11eb-9920-8e0c48fbc7d1.png"><img src="algoexpert.png"></a>
+</h1>
 
 ![ae-social-logo](https://user-images.githubusercontent.com/58945964/122674566-55875280-d19b-11eb-9920-8e0c48fbc7d1.png)
 
