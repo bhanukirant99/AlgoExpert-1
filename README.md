@@ -1,8 +1,5 @@
 # AlgoExpert
 
-
-![ae-social-logo](https://user-images.githubusercontent.com/58945964/122674566-55875280-d19b-11eb-9920-8e0c48fbc7d1.png)
-
 </br>
 
 <p align="center">
