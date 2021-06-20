@@ -14,3 +14,6 @@ def sortedSquaredArray(array):
     # we need to sort because - 7 * -7 will be 49
 	result.sort()
 	return result
+
+
+    # hint :  when the input is osrted in ascending order. There are high chances that we could solve the problem in linear time
