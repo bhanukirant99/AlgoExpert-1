@@ -1,8 +1,5 @@
 # AlgoExpert
 
-<h1 align="center">
-![ae-social-logo](https://user-images.githubusercontent.com/58945964/122674566-55875280-d19b-11eb-9920-8e0c48fbc7d1.png)
-</h1>
 
 ![ae-social-logo](https://user-images.githubusercontent.com/58945964/122674566-55875280-d19b-11eb-9920-8e0c48fbc7d1.png)
 
@@ -29,5 +26,4 @@ I have made a decision to solve problem regularly based on various topics.
 
 | #  | Title | Solution |
 | --- | --- | --- |
-|01| [1. Two Number Sum](https://www.algoexpert.io/questions)| [Python](https://github.com/RATHOD-SHUBHAM/AlgoExpert/blob/master/Arrays/TwoNumberSum.py)| ✅ 📌 ⭐ 😭 🧐 😎 |
-
+|01| [1. Two Number Sum](https://www.algoexpert.io/questions)| [Python](https://github.com/RATHOD-SHUBHAM/AlgoExpert/blob/master/Arrays/TwoNumberSum.py)|
