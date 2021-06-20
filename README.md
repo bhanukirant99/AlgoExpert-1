@@ -15,7 +15,7 @@ I have made a decision to solve problem regularly based on various topics.
 - and more yet to come everyday...
 
 
-### 1. [Arrays](https://leetcode.com/explore/learn/card/array-and-string/) , [HashMap](https://leetcode.com/explore/learn/card/hash-table/), Set
+### 1. [Arrays](https://www.algoexpert.io/questions)
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
