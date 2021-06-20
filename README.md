@@ -15,11 +15,11 @@ I have made a decision to solve problem regularly based on various topics.
 - and more yet to come everyday...
 
 
-### 1. [Arrays](https://www.algoexpert.io/questions)
+### 1. [Arrays](https://github.com/RATHOD-SHUBHAM/AlgoExpert/tree/master/Arrays)
 <details><summary>Algo Expert problems with solutions</summary>
 <p>
 
 | #  | Title | Solution |
 | --- | --- | --- |
-|01| [1. Two Number Sum(https://www.algoexpert.io/questions)]| [Python](https://github.com/RATHOD-SHUBHAM/AlgoExpert/blob/master/Arrays/TwoNumberSum.py)| ✅ 📌 ⭐ 😭 🧐 😎 |
+|01| [1. Two Number Sum](https://www.algoexpert.io/questions)| [Python](https://github.com/RATHOD-SHUBHAM/AlgoExpert/blob/master/Arrays/TwoNumberSum.py)| ✅ 📌 ⭐ 😭 🧐 😎 |
 
