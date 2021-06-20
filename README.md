@@ -16,10 +16,10 @@ I have made a decision to solve problem regularly based on various topics.
 
 
 ### 1. [Arrays](https://www.algoexpert.io/questions)
-<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<details><summary>Algo Expert problems with solutions</summary>
 <p>
 
-| #  | Title | Solution | Tutorial | Level | Remarks |
-| --- | --- | --- | --- | --- | --- |
-|01| [1. Two Sum](https://leetcode.com/problems/two-sum/)| [Python](https://tinyurl.com/wu6rdaw/1_Two_Sum.py), [Swift](https://tinyurl.com/to2yjbw/leetcode.com/swift/1_Two_Sum.swift) | --- | --- | ✅ 📌 ⭐ 😭 🧐 😎 |
+| #  | Title | Solution |
+| --- | --- | --- |
+|01| [1. Two Number Sum]| [Python](https://tinyurl.com/wu6rdaw/1_Two_Sum.py)| ✅ 📌 ⭐ 😭 🧐 😎 |
 
