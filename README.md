@@ -14,7 +14,7 @@ I have made a decision to solve problem regularly based on various topics.
 ## Topics
 - Array
 
-- and more yet to come everyday...
+- and more yet to come everyday....
 
 
 ### 1. [Arrays](https://github.com/RATHOD-SHUBHAM/AlgoExpert/tree/master/Arrays)
